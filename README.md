@@ -76,7 +76,7 @@
 ```bash
 # Clone o repositório
 git clone https://github.com/GrizzoHenrique/DecisionTree.git
-cd SQLadvanced
+cd DecisionTree
 
 # Crie um ambiente virtual (recomendado)
 python -m venv venv
